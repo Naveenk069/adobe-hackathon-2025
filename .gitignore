@@ -1,0 +1,12 @@
+# Ignore input/output data
+round1a/input/
+round1a/output/
+round1b/input/
+round1b/output/
+
+# Python and system artifacts
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+.env
